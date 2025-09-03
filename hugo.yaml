@@ -1,0 +1,84 @@
+baseURL: 'https://donktark.github.io/'
+languageCode: en-us
+title: MLops 기술 블로그
+theme: hextra
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 1
+    ordered: false
+    startLevel: 0
+
+menu:
+  main:
+    - identifier: Tutorial
+      name: Tutorial
+      pageRef: /docs
+      weight: 1
+    # - identifier: Prerequisite
+    #   name: Prerequisite
+    #   pageRef: /prereq
+    #   weight: 3
+    - identifier: About
+      name: About
+      pageRef: /about
+      weight: 5
+
+
+    # - identifier: Versions
+    #   name: Versions
+    #   weight: 6
+
+    # - identifier: latest
+    #   name: Latest ↗
+    #   url: https://donktark.github.io/latest/
+    #   parent: Versions
+    # - identifier: v0.9
+    #   name: v0.9 ↗
+    #   url: https://donktark.github.io/v0.9/
+    #   parent: Versions
+
+    - identifier : spacer
+      name : 
+      url : "#"
+      weight : 6
+      params:
+        icon: github
+
+    - name: Github
+      url: "https://github.com/donktark/donktark.github.io"
+      weight: 7
+      params:
+        icon: github
+
+params:
+  defaultSection: docs
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      link: /
+      width: 36
+      height: 36
+    items:
+      -type: language
+  theme:
+    defalut: system
+    displayToggle: true
+  assets:
+    customCSS:
+      - css/custom.css
+
+defaultContentLanguage: ko
+languages:
+  ko:
+    languageName: 🇰🇷한국어
+    weight: 1
+  en:
+    languageName: 🇬🇧English
+    weight: 2
+

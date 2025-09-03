@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MLops 기술 블로그 – About</title>
+    <link>https://donktark.github.io/about/</link>
+    <description>Recent content in About on MLops 기술 블로그</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 08 Aug 2025 09:23:57 +0900</lastBuildDate>
+    
+	  <atom:link href="https://donktark.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>작성자</title>
+      <link>https://donktark.github.io/about/author/</link>
+      <pubDate>Tue, 05 Aug 2025 15:28:53 +0900</pubDate>
+      
+      <guid>https://donktark.github.io/about/author/</guid>
+      <description>
+        
+        
+        &lt;div class=&#34;hextra-cards hx:mt-4 hx:gap-4 hx:grid not-prose&#34; style=&#34;--hextra-cards-grid-cols: 3;&#34;&gt;
+
+    &lt;a
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-gray-100 hx:shadow-sm hx:dark:border-neutral-700 hx:dark:bg-neutral-800 hx:dark:text-gray-50 hx:hover:shadow-lg hx:dark:hover:border-neutral-500 hx:dark:hover:bg-neutral-700&#34;href=&#34;https://github.com/donktark/donktark.github.io&#34;
+    target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;img
+      alt=&#34;이동현&#34;
+      class=&#34;hextra-card-image&#34;
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      src=&#34;https://donktark.github.io/images/profile.jpg&#34;
+      
+      
+      style=&#34;object-fit:cover; aspect-ratio:8/8;&#34;
+    /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;이동현&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;[설명을 여기에 입력 1]&lt;br&gt;[설명을 여기에 입력 2]&lt;/div&gt;&lt;/a&gt;
+&lt;a
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://donktark.github.io/about/&#34;
+    &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt; [작성자를 여기에 입력] &lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;[설명을 여기에 입력]&lt;/div&gt;&lt;/a&gt;
+
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>커뮤니티</title>
+      <link>https://donktark.github.io/about/comm/</link>
+      <pubDate>Mon, 04 Aug 2025 17:06:56 +0900</pubDate>
+      
+      <guid>https://donktark.github.io/about/comm/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Q&amp;amp;A&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;qa&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#qa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;깃허브 채널의 &lt;a href=&#34;https://github.com/donktark/donktark.github.io/discussions/categories/q-a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Q&amp;amp;A&lt;/a&gt;에서 질문을 업로드할 수 있습니다.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
