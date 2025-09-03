@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MLops 기술 블로그 – 사전 요구 사항 - 항목</title>
-    <link>https://donktark.github.io/prereq/prerequisite/</link>
+    <link>https://donghyeon-ai.github.io/prereq/prerequisite/</link>
     <description>Recent content in 사전 요구 사항 - 항목 on MLops 기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 31 Jul 2025 17:27:57 +0900</lastBuildDate>
     
-	  <atom:link href="https://donktark.github.io/prereq/prerequisite/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://donghyeon-ai.github.io/prereq/prerequisite/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>사전 요구 사항 - 하위 항목</title>
-      <link>https://donktark.github.io/prereq/prerequisite/prereq1/</link>
+      <link>https://donghyeon-ai.github.io/prereq/prerequisite/prereq1/</link>
       <pubDate>Mon, 04 Aug 2025 16:30:59 +0900</pubDate>
       
-      <guid>https://donktark.github.io/prereq/prerequisite/prereq1/</guid>
+      <guid>https://donghyeon-ai.github.io/prereq/prerequisite/prereq1/</guid>
       <description>
         
         

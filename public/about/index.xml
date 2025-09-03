@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MLops 기술 블로그 – About</title>
-    <link>https://donktark.github.io/about/</link>
+    <link>https://donghyeon-ai.github.io/about/</link>
     <description>Recent content in About on MLops 기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Fri, 08 Aug 2025 09:23:57 +0900</lastBuildDate>
     
-	  <atom:link href="https://donktark.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://donghyeon-ai.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>작성자</title>
-      <link>https://donktark.github.io/about/author/</link>
+      <link>https://donghyeon-ai.github.io/about/author/</link>
       <pubDate>Tue, 05 Aug 2025 15:28:53 +0900</pubDate>
       
-      <guid>https://donktark.github.io/about/author/</guid>
+      <guid>https://donghyeon-ai.github.io/about/author/</guid>
       <description>
         
         
@@ -33,13 +33,13 @@
       class=&#34;hextra-card-image&#34;
       loading=&#34;lazy&#34;
       decoding=&#34;async&#34;
-      src=&#34;https://donktark.github.io/images/profile.jpg&#34;
+      src=&#34;https://donghyeon-ai.github.io/images/profile.jpg&#34;
       
       
       style=&#34;object-fit:cover; aspect-ratio:8/8;&#34;
     /&gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt;이동현&lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;[설명을 여기에 입력 1]&lt;br&gt;[설명을 여기에 입력 2]&lt;/div&gt;&lt;/a&gt;
 &lt;a
-  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://donktark.github.io/about/&#34;
+  class=&#34;hextra-card hx:group hx:flex hx:flex-col hx:justify-start hx:overflow-hidden hx:rounded-lg hx:border hx:border-gray-200 hx:text-current hx:no-underline hx:dark:shadow-none hx:hover:shadow-gray-100 hx:dark:hover:shadow-none hx:shadow-gray-100 hx:active:shadow-sm hx:active:shadow-gray-200 hx:transition-all hx:duration-200 hx:hover:border-gray-300 hx:bg-transparent hx:shadow-xs hx:dark:border-neutral-800 hx:hover:bg-slate-50 hx:hover:shadow-md hx:dark:hover:border-neutral-700 hx:dark:hover:bg-neutral-900&#34;href=&#34;https://donghyeon-ai.github.io/about/&#34;
     &gt;&lt;span class=&#34;hextra-card-icon hx:flex hx:font-semibold hx:items-start hx:gap-2 hx:pt-4 hx:px-4 hx:text-gray-700 hx:hover:text-gray-900 hx:dark:text-neutral-200 hx:dark:hover:text-neutral-50&#34;&gt; [작성자를 여기에 입력] &lt;/span&gt;&lt;div class=&#34;hextra-card-subtitle hx:line-clamp-3 hx:text-sm hx:font-normal hx:text-gray-500 hx:dark:text-gray-400 hx:px-4 hx:mb-4 hx:mt-2&#34;&gt;[설명을 여기에 입력]&lt;/div&gt;&lt;/a&gt;
 
 &lt;/div&gt;
@@ -50,10 +50,10 @@
     
     <item>
       <title>커뮤니티</title>
-      <link>https://donktark.github.io/about/comm/</link>
+      <link>https://donghyeon-ai.github.io/about/comm/</link>
       <pubDate>Mon, 04 Aug 2025 17:06:56 +0900</pubDate>
       
-      <guid>https://donktark.github.io/about/comm/</guid>
+      <guid>https://donghyeon-ai.github.io/about/comm/</guid>
       <description>
         
         

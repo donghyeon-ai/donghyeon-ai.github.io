@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MLops 기술 블로그 – About</title>
-    <link>https://donktark.github.io/en/about/</link>
+    <link>https://donghyeon-ai.github.io/en/about/</link>
     <description>Recent content in About on MLops 기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 08 Aug 2025 09:23:57 +0900</lastBuildDate>
     
-	  <atom:link href="https://donktark.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://donghyeon-ai.github.io/en/about/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>작성자</title>
-      <link>https://donktark.github.io/en/about/author/</link>
+      <link>https://donghyeon-ai.github.io/en/about/author/</link>
       <pubDate>Tue, 05 Aug 2025 15:28:53 +0900</pubDate>
       
-      <guid>https://donktark.github.io/en/about/author/</guid>
+      <guid>https://donghyeon-ai.github.io/en/about/author/</guid>
       <description>
         
         
@@ -33,7 +33,7 @@
       class=&#34;hextra-card-image&#34;
       loading=&#34;lazy&#34;
       decoding=&#34;async&#34;
-      src=&#34;https://donktark.github.io/images/profile.jpg&#34;
+      src=&#34;https://donghyeon-ai.github.io/images/profile.jpg&#34;
       
       
       style=&#34;object-fit:cover; aspect-ratio:8/8;&#34;
@@ -50,10 +50,10 @@
     
     <item>
       <title>커뮤니티</title>
-      <link>https://donktark.github.io/en/about/comm/</link>
+      <link>https://donghyeon-ai.github.io/en/about/comm/</link>
       <pubDate>Mon, 04 Aug 2025 17:06:56 +0900</pubDate>
       
-      <guid>https://donktark.github.io/en/about/comm/</guid>
+      <guid>https://donghyeon-ai.github.io/en/about/comm/</guid>
       <description>
         
         

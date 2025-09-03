@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MLops 기술 블로그 – 블로그 소개</title>
-    <link>https://donktark.github.io/docs/intro/</link>
+    <link>https://donghyeon-ai.github.io/docs/intro/</link>
     <description>Recent content in 블로그 소개 on MLops 기술 블로그</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 31 Jul 2025 15:03:52 +0900</lastBuildDate>
     
-	  <atom:link href="https://donktark.github.io/docs/intro/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://donghyeon-ai.github.io/docs/intro/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>소개</title>
-      <link>https://donktark.github.io/docs/intro/introduction/</link>
+      <link>https://donghyeon-ai.github.io/docs/intro/introduction/</link>
       <pubDate>Thu, 31 Jul 2025 15:04:02 +0900</pubDate>
       
-      <guid>https://donktark.github.io/docs/intro/introduction/</guid>
+      <guid>https://donghyeon-ai.github.io/docs/intro/introduction/</guid>
       <description>
         
         
