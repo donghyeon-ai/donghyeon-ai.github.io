@@ -1,0 +1,55 @@
+.colorbox {
+  background-color: rgb(174, 201, 250);
+  padding: 1em 1.5em;
+  border-radius: 3px;
+}
+
+.dark .colorbox {
+  background-color: rgb(36, 64, 116);
+}
+
+@media (min-width: 768px) {
+  .hextra-max-page-width {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .hextra-max-navbar-width {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+nav.hextra-toc div.hextra-scrollbar ul ul ul {
+  display: none !important;
+}
+
+a.hx\:font-medium span.hx\:text-center {
+  color: cornflowerblue !important;
+  font-weight: 500;
+}
+
+a[href="#"] {
+  pointer-events: none;
+  color: transparent;
+  background: none;
+  width: 15%;
+  flex-grow: 1;
+  min-width: 1em;
+}
+
+@media (max-width: 768px) {
+  .hextra-scrollbar,
+  .search-input {
+    transition: background-color 0.5s ease, border-color 0.7s ease, box-shadow 0.5s ease; 
+  }
+}
+
+body, main, html, aside, section, h2, nav, article, a, footer, header, div, ::before, ::after, .sidebar-container {
+  transition: background-color 0.5s ease, border-color 0.7s ease, box-shadow 0.5s ease;
+}
+
