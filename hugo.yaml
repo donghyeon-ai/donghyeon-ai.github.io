@@ -49,7 +49,7 @@ menu:
         icon: github
 
     - name: Github
-      url: "https://github.com/donktark/donktark.github.io"
+      url: "https://github.com/donghyeon-ai/donghyeon-ai.github.io"
       weight: 7
       params:
         icon: github
