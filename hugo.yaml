@@ -27,20 +27,6 @@ menu:
       pageRef: /about
       weight: 5
 
-
-    # - identifier: Versions
-    #   name: Versions
-    #   weight: 6
-
-    # - identifier: latest
-    #   name: Latest ↗
-    #   url: https://donktark.github.io/latest/
-    #   parent: Versions
-    # - identifier: v0.9
-    #   name: v0.9 ↗
-    #   url: https://donktark.github.io/v0.9/
-    #   parent: Versions
-
     - identifier : spacer
       name : 
       url : "#"
