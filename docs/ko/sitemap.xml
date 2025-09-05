@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://donghyeon-ai.github.io/docs/runai/access/</loc>
+    <lastmod>2025-09-04T10:33:22+09:00</lastmod>
+  </url><url>
     <loc>https://donghyeon-ai.github.io/about/author/</loc>
     <lastmod>2025-08-05T15:28:53+09:00</lastmod>
     <xhtml:link
@@ -70,6 +73,9 @@
                 href="https://donghyeon-ai.github.io/docs/"
                 />
   </url><url>
+    <loc>https://donghyeon-ai.github.io/docs/runai/organization/</loc>
+    <lastmod>2025-09-05T14:37:36+09:00</lastmod>
+  </url><url>
     <loc>https://donghyeon-ai.github.io/about/comm/</loc>
     <lastmod>2025-08-04T17:06:56+09:00</lastmod>
     <xhtml:link
@@ -83,17 +89,30 @@
                 href="https://donghyeon-ai.github.io/about/comm/"
                 />
   </url><url>
-    <loc>https://donghyeon-ai.github.io/docs/body_text/</loc>
+    <loc>https://donghyeon-ai.github.io/docs/runai/</loc>
     <lastmod>2025-08-04T13:14:38+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://donghyeon-ai.github.io/en/docs/body_text/"
+                href="https://donghyeon-ai.github.io/en/docs/runai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://donghyeon-ai.github.io/docs/body_text/"
+                href="https://donghyeon-ai.github.io/docs/runai/"
+                />
+  </url><url>
+    <loc>https://donghyeon-ai.github.io/</loc>
+    <lastmod>2025-09-05T14:37:36+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://donghyeon-ai.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://donghyeon-ai.github.io/"
                 />
   </url><url>
     <loc>https://donghyeon-ai.github.io/about/</loc>
@@ -107,19 +126,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="https://donghyeon-ai.github.io/about/"
-                />
-  </url><url>
-    <loc>https://donghyeon-ai.github.io/</loc>
-    <lastmod>2025-08-08T09:23:57+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://donghyeon-ai.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://donghyeon-ai.github.io/"
                 />
   </url><url>
     <loc>https://donghyeon-ai.github.io/prereq/prerequisite/</loc>
